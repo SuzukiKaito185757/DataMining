@@ -1,0 +1,42 @@
+iris
+iris$Sepal.Length
+summary(iris)
+plot(iris$Sepal.Length, iris$Sepal.Width)
+library(help="datasets")iris#
+#
+> summary(iris)#
+#
+> iris$Sepal.Length#
+#
+> hist(iris$Petal.Length,right=F)#
+#
+> plot(iris$Petal.Length, iris$Sepal.Length)#
+#
+> boxplot(Sepal.Length~Species,data=iris)#
+#
+> x<-seq(-10,10,0.1)#
+> curve(dnorm(x,0,1),from=-10,to=10)#
+#
+> x<-seq(0,10,1)#
+> barplot(dbinom(x,10,0.3))
+library(helpe="datasets")
+library(help="datasets")
+iris
+summary(iris)
+iris$Sepal.Length
+hist(iris$Petal.Length,right=F)
+plot(iris$Petal.Length, iris$Sepal.Length)
+boxplot(Sepal.Length~Species,data=iris)
+x<-seq(-10,10,0.1)
+curve(dnorm(x,0,1),from=-10,to=10)
+x<-seq(0,10,1)
+barplot(dbinom(x,10,0.3))
+dbinom(4,10,0.5)
+iris
+data$花弁の長さ
+summary
+summary(data)
+barplot(table(data$Sepal.Length))
+getwd()
+getwd()
+getwd()
